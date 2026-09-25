@@ -41,7 +41,17 @@ namespace ChocolaterieDeWilly.Models
         public int QuantiteInvendue
         {
             get { return _quantiteInvendue; }
-            set  { _quantiteInvendue = value; }
+            set  
+            { 
+                if (value < 0 || value > Creation.Quantite)
+                {
+                    throw new ArgumentException($"Les invendus doivent être entre 0 et {Creation.Quantite}.");
+                }
+                else
+                {
+                    _quantiteInvendue = value; 
+                }
+            }
         }
 
 
