@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChocolaterieDeWilly.Models.Atelier">
+    <Position X="7" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEQAwAQEAAAAAQAiAABCAAgAAAGQAAkAAAEIQAABAA=</HashCode>
+      <FileName>Models\Atelier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChocolaterieDeWilly.Models.Creation">
+    <Position X="11.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAYAAAAAAE=</HashCode>
+      <FileName>Models\Creation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChocolaterieDeWilly.Models.LotProduction">
+    <Position X="9.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAGQAAAAAAAAAAAAAAAAAAEAAAAAAAAAACBAAA=</HashCode>
+      <FileName>Models\LotProduction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChocolaterieDeWilly.Models.Masse">
+    <Position X="4.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABAAUAAAAAAAIAAAAAAAAAAACAAAAgAA=</HashCode>
+      <FileName>Models\Masse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChocolaterieDeWilly.Models.TicketOr">
+    <Position X="11.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAgAAAAAAABAAA=</HashCode>
+      <FileName>Models\TicketOr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChocolaterieDeWilly.AffichageMenu">
+    <Position X="2.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AxAgEAAEEAAAAAQAAACBCAAAABIGAAAAQAABMQAARCI=</HashCode>
+      <FileName>AffichageMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChocolaterieDeWilly.ExceptionsPersonnalisees.DateLimiteDepasseeException">
+    <Position X="9.25" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptionsPersonnalisees\DateLimiteDepasseeException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChocolaterieDeWilly.ExceptionsPersonnalisees.LotIntrouvableException">
+    <Position X="9.25" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptionsPersonnalisees\LotIntrouvableException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChocolaterieDeWilly.ExceptionsPersonnalisees.ReserveInsuffisanteException">
+    <Position X="4.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExceptionsPersonnalisees\ReserveInsuffisanteException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

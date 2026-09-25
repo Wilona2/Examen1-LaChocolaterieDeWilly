@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Éléments de solution/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ChocolaterieDeWilly/ChocolaterieDeWilly.csproj" />
+  <Project Path="ChocolaterieDeWillyTests/ChocolaterieDeWillyTests.csproj" Id="b5706e96-0285-49a6-9421-2f2f7b2039c6" />
+</Solution>
